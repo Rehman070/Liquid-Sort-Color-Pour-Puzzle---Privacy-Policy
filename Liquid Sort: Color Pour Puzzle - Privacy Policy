@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Liquid Sort: Color Pour Puzzle</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f8f9fa;
+            color: #343a40;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+        }
+        h1, h2 {
+            color: #4A148C; /* Deep Purple */
+            border-bottom: 2px solid #E1BEE7; /* Light Purple */
+            padding-bottom: 10px;
+        }
+        h1 {
+            text-align: center;
+            font-size: 2.2em;
+        }
+        h2 {
+            font-size: 1.6em;
+            margin-top: 30px;
+        }
+        p, li {
+            font-size: 1.1em;
+        }
+        a {
+            color: #7B1FA2; /* Medium Purple */
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        strong {
+            color: #311B92; /* Darker Purple */
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Liquid Sort: Color Pour Puzzle</h1>
+        <p><strong>Last Updated:</strong> [Date of Last Update]</p>
+
+        <h2>Introduction</h2>
+        <p>
+            Welcome to Liquid Sort: Color Pour Puzzle ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you play our mobile game (the "Game").
+        </p>
+        <p>
+            By using our Game, you agree to the collection and use of information in accordance with this policy.
+        </p>
+
+        <h2>Information We Collect</h2>
+        <p>We may collect information about you in a variety of ways. The information we may collect via the Game includes:</p>
+        <ul>
+            <li>
+                <strong>Usage Data:</strong> We automatically collect certain information when you use the Game, such as your game progress, levels completed, and in-game activities. This helps us improve your gaming experience.
+            </li>
+            <li>
+                <strong>Device and Network Information:</strong> We collect information about your mobile device, including device model, operating system version, and IP address. We also use the <strong>ACCESS_NETWORK_STATE</strong> permission to determine if you are connected to the internet.
+            </li>
+            <li>
+                <strong>Advertising ID:</strong> We use the <strong>AD_ID</strong> permission to collect your device's advertising identifier. This is used by our advertising partners to serve personalized ads that may be more relevant to you.
+            </li>
+        </ul>
+
+        <h2>How We Use Your Information</h2>
+        <p>Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we use information collected via the Game to:</p>
+        <ul>
+            <li>Deliver and maintain our Game, including saving your progress.</li>
+            <li>Provide and manage in-app advertising through third-party services like Google AdMob.</li>
+            <li>Monitor and analyze usage and trends to improve the Game's functionality.</li>
+            <li>Process in-app purchases and transactions (handled by the Google Play Store).</li>
+        </ul>
+
+        <h2>Permissions We Request</h2>
+        <p>Our Game requests the following permissions to function correctly:</p>
+        <ul>
+            <li>
+                <strong>INTERNET:</strong> Allows the Game to connect to the internet to load advertisements and handle in-app purchases.
+            </li>
+            <li>
+                <strong>ACCESS_NETWORK_STATE:</strong> Allows the Game to check for a network connection before attempting to connect to the internet.
+            </li>
+            <li>
+                <strong>com.google.android.gms.permission.AD_ID:</strong> Allows our advertising partners to access your advertising ID to show personalized ads.
+            </li>
+        </ul>
+
+        <h2>Disclosure of Your Information</h2>
+        <p>We do not sell your personal information. However, we may share information we have collected about you in certain situations with the following third parties:</p>
+        <ul>
+            <li>
+                <strong>Advertising Partners:</strong> We work with third-party advertising networks, such as Google AdMob, which require the information to serve advertisements within the Game. You can learn more about Google's privacy practices here: <a href="https://policies.google.com/privacy" target="_blank">Google Privacy & Terms</a>.
+            </li>
+            <li>
+                <strong>In-App Purchases:</strong> All in-app purchases are processed through the Google Play Store. We do not collect or store your payment information.
+            </li>
+        </ul>
+
+        <h2>Data Security</h2>
+        <p>
+            We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the information you provide to us, please be aware that no security measures are perfect or impenetrable.
+        </p>
+
+        <h2>Children's Privacy</h2>
+        <p>
+            Our Game is intended for a general audience and does not knowingly collect personal information from children under the age of 13. If we learn that we have collected information from a child under 13, we will take steps to delete that information as quickly as possible.
+        </p>
+
+        <h2>Changes to This Privacy Policy</h2>
+        <p>
+            We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+        </p>
+
+        <h2>Contact Us</h2>
+        <p>
+            If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+            <a href="mailto:abdurrehman5732@gmail.com">abdurrehman5732@gmail.com</a>
+        </p>
+
+        <div class="footer">
+            <p><strong>Disclaimer:</strong> This privacy policy is a general template and should be reviewed by a legal professional to ensure it complies with all applicable laws and regulations for your specific jurisdiction and use case.</p>
+        </div>
+    </div>
+</body>
+</html>
